@@ -1,0 +1,160 @@
+DEPARTAMENTO,MUNICIPIO,Febrero,Marzo,Abril,Mayo,Junio,Julio,Agosto,Sep,Octubre,Total
+Madriz,La Sabanas,85,125,86,150,110,95,85,50,14,800
+Madriz,San José de Cusmapa,85,125,86,150,110,95,85,50,14,800
+Madriz,San Juan de Río Coco,85,125,86,150,110,95,85,50,14,800
+Madriz,Telpaneca,85,125,86,150,110,95,85,50,14,800
+Madriz,Totogalpa,85,125,86,150,110,95,85,50,14,800
+Madriz,Yalagüina,85,125,86,150,110,95,85,50,14,800
+Nueva Segovia,Mozonte,85,125,86,150,110,95,85,50,14,800
+Nueva Segovia,Wiwilí de Nueva Segovia,85,125,86,150,110,95,85,50,14,800
+Rio San Juan,San Juan del Norte,85,125,86,150,110,95,85,50,14,800
+RACCN,Prinzapolka,85,125,86,150,110,95,85,50,14,800
+RACCS,Corn Island,85,125,86,150,110,95,85,50,14,800
+RACCS,Kukrahill,85,125,86,150,110,95,85,50,14,800
+Nueva Segovia,Murra,85,125,86,150,110,95,85,50,20,806
+RACCS,Bocana de Paiwas,85,125,86,150,110,95,85,50,20,806
+Rio San Juan,El Castillo,85,125,86,150,110,95,85,50,22,808
+Rio San Juan,Morrito,85,125,86,150,110,95,85,50,22,808
+Nueva Segovia,Ciudad Antigua,85,125,86,150,110,95,85,50,24,810
+Rivas,Cárdenas,85,125,86,150,110,95,85,50,24,810
+Nueva Segovia,Dipilto,85,125,86,150,110,95,85,50,25,811
+Carazo,La Conquista,85,125,86,150,110,95,85,50,27,813
+Nueva Segovia,Santa María,85,125,86,150,110,95,85,50,27,813
+Leon,El Jicaral,85,125,86,150,110,95,85,65,14,815
+Leon,Santa Rosa del Peñón,85,125,86,150,110,95,85,65,14,815
+Nueva Segovia,San Fernando,85,125,86,150,110,95,85,65,14,815
+Rivas,San Jorge,85,125,86,150,110,95,85,68,14,818
+Chontales,EL Coral,85,125,86,150,110,95,85,70,14,820
+Sector Minero,Rosita,85,125,86,150,110,95,85,70,14,820
+Sector Minero,Siuna,85,125,86,150,110,95,85,71,14,821
+Chontales,El Ayote,85,125,86,150,110,95,85,72,14,822
+Madriz,Palacagüina,85,125,86,150,110,95,85,72,14,822
+Rivas,Buenos Aires,85,125,86,150,110,95,85,72,14,822
+RACCN,Waspam,85,125,86,150,110,95,85,72,14,822
+Jinotega,San José de Bocay,85,125,86,173,110,95,85,50,14,823
+RACCS,Desembocadura de Río Grande,85,125,86,174,110,95,85,50,14,824
+Carazo,El Rosario,85,125,86,175,110,95,85,50,14,825
+Nueva Segovia,Macuelizo,85,125,86,175,110,95,85,50,14,825
+Chinandega,Cinco Pinos,85,125,86,178,110,95,85,50,14,828
+Rivas,Altagracia,85,125,86,179,110,95,85,50,14,829
+Rivas,Tola,85,125,86,182,110,95,85,50,12,830
+Sector Minero,Mulukukú,85,125,86,150,110,95,85,50,44,830
+Zelaya,Muelle de los Bueyes,85,125,86,150,110,95,85,50,44,830
+Zelaya,Nueva Güinea,85,125,86,150,110,95,85,50,47,833
+Matagalpa,San Isidro,85,125,86,150,110,95,85,50,49,835
+Leon,Malpaisillo,85,125,86,150,110,95,85,50,50,836
+Madriz,San Lucas,85,125,86,150,110,95,85,50,50,836
+Chinandega,San Francisco del Norte,85,125,86,150,110,95,85,50,52,838
+Chontales,Santo Domingo,85,125,86,150,110,95,85,50,54,840
+Matagalpa,Muy Muy,85,125,86,150,110,95,85,50,54,840
+Matagalpa,San Dionisio,85,125,86,150,110,95,85,50,54,840
+Chinandega,San Pedro del Norte,85,125,86,150,110,95,85,52,55,843
+Estelí,San Juan de Limay,85,125,86,150,110,95,85,52,55,843
+Matagalpa,Terrabona,85,125,86,150,110,95,85,52,55,843
+RACCS,La Cruz de Río Grande,85,125,86,150,110,95,85,50,58,844
+Estelí,San Nicolás,85,125,86,150,110,95,85,50,59,845
+Carazo,La Paz de Carazo,85,125,86,150,110,95,85,50,60,846
+Masaya,San Juan de Oriente,85,125,86,150,110,95,85,50,61,847
+Rivas,Potosí,85,125,86,150,110,95,85,50,61,847
+Chinandega,El Realejo,85,125,86,150,110,95,85,51,62,849
+Jinotega,La Concordia,85,125,86,150,110,95,85,53,60,849
+Matagalpa,Tuma - La Dalia,85,125,86,150,110,95,85,70,43,849
+Rivas,Belén,85,125,86,150,110,95,85,70,43,849
+RACCN,Waslala,85,125,86,150,110,95,85,70,43,849
+Masaya,Nandasmo,85,125,86,150,110,95,85,50,14,850
+Rio San Juan,El Almendro,85,125,86,150,110,95,85,61,53,850
+Rivas,San Juan del Sur,85,125,86,150,110,95,85,65,51,852
+Leon,El Sauce,85,125,86,150,110,95,85,52,65,853
+Carazo,San Marcos,85,125,86,150,110,95,85,50,68,854
+Chinandega,Santo Tomás del Norte,85,125,86,150,110,95,85,50,68,854
+Carazo,Dolores,85,125,86,150,110,95,85,50,69,855
+Jinotega,El Cuá,85,125,86,150,110,95,85,50,69,855
+Managua,El Crucero,85,125,86,150,110,95,85,50,69,855
+Jinotega,San Rafael del Norte,85,125,86,150,110,95,85,50,72,858
+Leon,Nagarote,85,125,86,150,110,95,85,50,72,858
+Jinotega,Santa María de Pantasma,85,125,86,150,110,95,85,50,73,859
+Leon,Achuapa,85,125,86,150,110,95,85,50,75,861
+Nueva Segovia,El Jícaro,85,125,86,150,110,95,85,61,64,861
+Chinandega,El Viejo,85,125,86,150,110,95,85,64,62,862
+Chontales,Juigalpa,85,125,86,150,110,95,85,64,62,862
+Chontales,Villa Sandino,85,125,86,150,110,95,85,65,63,863
+Chinandega,Posoltega,85,125,86,150,110,95,85,66,62,864
+Chontales,La Libertad,85,125,86,150,110,95,85,50,78,864
+Leon,La Paz Centro,85,125,86,150,110,95,85,60,68,864
+Chontales,Acoyapa,85,125,86,150,110,95,85,69,60,865
+Chontales,San Francisco de Cuapa,85,125,86,150,110,95,85,69,60,865
+Masaya,Tisma,85,125,86,150,110,95,85,69,60,865
+RACCS,Laguna de Perlas,85,125,86,150,110,95,85,69,60,865
+Chontales,San Pedro de Lóvago,85,125,86,150,110,95,85,64,66,866
+Rivas,Moyogalpa,85,125,86,150,110,95,85,64,66,866
+Chinandega,Villanueva,85,125,86,150,110,95,85,64,67,867
+Sector Minero,Bonanza,85,125,86,150,110,95,85,64,69,869
+Chinandega,Somotillo,85,125,86,150,110,95,85,64,71,871
+Chontales,Santo Tomás,85,125,86,150,110,95,85,64,72,872
+Carazo,Santa Teresa,85,125,86,150,110,95,85,64,74,874
+Managua,Managua Dist IV,85,125,86,150,110,95,85,64,74,874
+Managua,Managua Dist II,85,125,86,150,110,95,85,64,79,879
+Chinandega,Corinto,85,125,86,150,110,95,85,50,94,880
+Chontales,Comalapa,85,125,86,150,110,95,85,65,79,880
+Madriz,Somoto,85,125,86,150,110,95,85,64,81,881
+Nueva Segovia,Quilalí,85,125,86,150,110,95,85,64,81,881
+Jinotega,Wiwilí de Jinotega,85,125,86,150,110,95,85,64,82,882
+Masaya,Catarina,85,125,86,150,110,95,85,64,83,883
+Chinandega,Puerto Morazán,85,125,86,150,110,95,85,64,84,884
+Leon,Quezalguaque,85,125,86,150,110,95,85,64,89,889
+Matagalpa,Rancho Grande,85,125,86,150,110,95,85,64,90,890
+Estelí,Condega,85,125,86,150,110,95,85,64,93,893
+Matagalpa,Sébaco,85,125,86,150,110,95,85,64,94,894
+Rivas,Rivas,85,125,86,150,110,95,85,64,95,895
+Granada,Diriá,85,125,86,150,110,95,85,64,96,896
+Rio San Juan,San Miguelito,85,125,86,150,110,95,85,64,96,896
+RACCS,El Tortuguero,85,125,86,150,110,95,85,64,96,896
+Estelí,Pueblo Nuevo,85,125,86,150,110,95,85,64,97,897
+Rio San Juan,San Carlos,85,125,86,150,110,95,85,64,98,898
+Managua,San Francisco Libre,92,82,45,89,85,85,85,36,27,626
+Masaya,Niquinohomo,92,82,45,89,85,85,85,37,27,627
+Leon,Telica,92,57,55,89,85,95,85,36,37,631
+Matagalpa,Esquipulas,92,82,45,89,85,85,85,36,32,631
+Boaco,San José de los Remates,92,82,45,89,85,85,85,36,35,634
+Estelí,La Trinidad,92,82,45,89,85,85,85,36,38,637
+Zelaya,El Rama,92,82,45,89,85,85,85,37,42,642
+Managua,Managua Dist I,92,82,45,89,85,85,95,36,36,645
+Matagalpa,San Ramón,92,82,45,89,85,85,85,36,47,646
+Matagalpa,Ciudad Darío,92,82,45,89,85,85,85,56,30,649
+Boaco,Santa Lucía,92,82,65,89,85,85,85,42,27,652
+Carazo,Diriamba,92,82,45,89,85,85,85,36,54,653
+Boaco,Teustepe,92,82,45,89,85,85,85,40,54,657
+Jinotega,San Sebastián de Yalí,92,82,45,89,85,85,85,36,42,668
+Boaco,Camoapa,92,82,62,89,85,85,85,52,46,678
+Managua,Mateare,92,82,45,89,85,89,85,62,50,679
+Matagalpa,Río Blanco,92,82,54,89,85,85,85,52,55,679
+Managua,Ticuantepe,92,82,63,89,85,80,80,52,60,683
+Granada,Diriomo,92,82,45,89,85,85,85,61,60,684
+RACCN,Puerto Cabezas,92,82,45,89,85,85,85,69,54,686
+Chinandega,Chichigalpa,92,82,45,89,85,85,85,51,75,689
+Boaco,San Lorenzo,92,82,45,89,95,95,95,52,56,701
+Managua,Villa Carlos Fonseca/El Carmen,92,82,45,89,85,85,85,52,60,701
+Masaya,Masatepe,92,82,45,89,87,86,85,72,65,703
+RACCS,Bluefields,92,82,46,89,85,85,85,60,80,704
+Nueva Segovia,Jalapa,92,82,63,89,85,85,85,60,67,708
+Managua,Managua Dist VI,92,82,73,89,85,85,85,60,68,719
+Granada,Nandaime,92,82,63,89,85,85,85,58,85,724
+Masaya,Nindirí,92,82,48,89,63,85,75,45,55,634
+Nueva Segovia,Ocotal,92,82,56,89,85,85,85,36,39,649
+Managua,Ciudad Sandino,92,82,52,89,85,85,85,36,52,658
+Carazo,Jinotepe,92,82,58,89,85,85,85,45,60,681
+Managua,San Rafael del Sur,92,82,63,89,85,85,85,46,60,687
+Estelí,Estelí,92,82,45,89,85,85,85,60,67,690
+Boaco,Boaco,92,82,50,89,85,85,85,60,67,695
+Chinandega,Chinandega,92,80,63,87,85,85,85,60,60,697
+Managua,Managua Dist VII,92,82,65,89,85,85,85,66,65,714
+Masaya,La Concepción,91,82,64,89,85,85,85,60,75,716
+Jinotega,Jinotega,91,82,66,89,85,85,85,68,69,720
+Leon,Leon,92,82,69,89,85,85,85,73,75,735
+Masaya,Masaya,92,82,75,89,85,91,85,73,78,750
+Managua,Managua Dist III,92,82,92,89,85,85,85,75,90,775
+Granada,Granada,92,89,86,89,85,85,85,96,83,790
+Managua,Tipitapa,85,125,86,150,110,95,85,64,94,894
+Matagalpa,Matiguas,183,125,133,89,97,57,125,50,50,909
+Managua,Managua Dist V,85,125,86,150,110,95,85,64,66,866
+Matagalpa,Matagalpa,183,125,133,89,97,57,125,97,49,955
